@@ -6,7 +6,7 @@ Welcome to Convolutional Neural Networks (CNN). The project focuses on implement
 
 # Blog
 
-If you are an avid reader, please visit the blog post at https://medium.com/@abg_85948/discover-your-dog-breed-using-cnn-30636fb15d5f
+If you are an avid reader, please visit my blog post- https://medium.com/@abg_85948/discover-your-dog-breed-using-cnn-30636fb15d5f
 
 # Contents
 
