@@ -12,21 +12,20 @@ The haarcascades folder holds the xml file for use with the OpenCV face detector
 
 # Necessary packages
 
-opencv-python
-jupyter
-matplotlib
-pandas
-numpy
-pillow
-scipy
-tqdm
-scikit-learn
-scikit-image
-seaborn
-h5py
-ipykernel
-bokeh
-pickleshare
+- opencv-python
+- jupyter
+- matplotlib
+- pandas
+- numpy
+- pillow
+- scipy
+- tqdm
+- scikit-learn
+- scikit-image
+- seaborn
+- h5py
+- ipykernel
+- pickleshare
 
 # Summary of the results- 
 
