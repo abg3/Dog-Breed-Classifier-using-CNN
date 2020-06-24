@@ -33,4 +33,4 @@ The CNN model from scratch yielded an accuracy of 22%, well above the 10% mark a
 
 # Acknowledgements
 
-Thank you Udacity for providing this opportunity to work on this project!
+Thank you Udacity for providing the opportunity to work on this project!
