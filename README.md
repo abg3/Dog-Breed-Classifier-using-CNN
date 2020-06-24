@@ -4,6 +4,10 @@
 
 Welcome to Convolutional Neural Networks (CNN). The project focuses on implementing a classifier to identify dog breeds using CNN from scratch and CNN using transfer learning. At the end of the project, we have an algorithm that predicts the closest dog breed a human face resembles.
 
+# Blog
+
+If you like to read, please visit my blog- 
+
 # Contents
 
 The main file in the repository is the dog_app.ipynb, which is the Jupyter notebook containing the process used to create our algorithm and model used to predict the dog breed. A copy of this file is also in dog_app.html format.
