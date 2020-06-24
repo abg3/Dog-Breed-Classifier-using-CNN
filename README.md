@@ -27,9 +27,9 @@ The haarcascades folder holds the xml file for use with the OpenCV face detector
 - ipykernel
 - pickleshare
 
-# Summary of the results- 
+# Summary of the results
 
-The final model for identifying dog breeds achieved an 86% accuracy level on the testing dataset.
+The CNN model from scratch yielded an accuracy of 22%, well above the 10% mark and the final model using transfer learning with the pretrained model Densenet121 produced 86% accuracy in identifying dog breeds.
 
 # Acknowledgements
 
